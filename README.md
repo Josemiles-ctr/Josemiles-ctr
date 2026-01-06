@@ -237,13 +237,11 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> GitHub Achievements
 
 <div align="center">
-  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Josemiles-ctr&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Josemiles-ctr&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
