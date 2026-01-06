@@ -242,9 +242,9 @@
 
 ```mermaid
 graph LR
-    A[⚡ 2026 Goals] --> B[📖 Learning]
-    A --> C[⚙️ Building]
-    A --> D[🔗 Contributing]
+    A[2026 Goals] --> B[Learning]
+    A --> C[Building]
+    A --> D[Contributing]
 
     B --> B1[Cloud Architecture]
     B --> B2[System Design]
@@ -321,11 +321,11 @@ graph LR
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="35" height="35" /> Contribution Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Josemiles-ctr/Josemiles-ctr/output/github-contribution-grid-snake-dark.svg)
+[![Josemiles' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josemiles-ctr&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Josemiles-ctr)
 
 </div>
 
