@@ -224,7 +224,7 @@
 <br/>
 
 <a href="https://github.com/Josemiles-ctr">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Josemiles-ctr&theme=tokyonight&hide_border=true" alt="Josemiles' GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Josemiles-ctr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Josemiles' GitHub Streak"/>
 </a>
 
 <br/>
@@ -241,9 +241,7 @@
 
 <div align="center">
   
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Josemiles-ctr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Josemiles' GitHub Trophies"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Josemiles-ctr&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Josemiles' GitHub Trophies"/>
 
 </div>
 
