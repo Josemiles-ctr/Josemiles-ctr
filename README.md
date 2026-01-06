@@ -241,7 +241,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Josemiles-ctr&theme=tokyonight&no-frame=true&row=1&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Josemiles-ctr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
