@@ -321,11 +321,15 @@ graph LR
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="35" height="35" /> Contribution Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> Contribution Snake
 
 <div align="center">
 
-[![Josemiles' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josemiles-ctr&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Josemiles-ctr)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Josemiles-ctr/Josemiles-ctr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Josemiles-ctr/Josemiles-ctr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Josemiles-ctr/Josemiles-ctr/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
