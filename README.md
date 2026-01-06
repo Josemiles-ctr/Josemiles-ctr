@@ -215,12 +215,23 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" height="35" /> GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Josemiles-ctr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Josemiles-ctr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josemiles-ctr&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Josemiles-ctr&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<a href="https://github.com/Josemiles-ctr">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josemiles-ctr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Josemiles-ctr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Josemiles-ctr">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Josemiles-ctr&theme=tokyonight&hide_border=true" alt="Josemiles' GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Josemiles-ctr">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josemiles-ctr&theme=tokyonight" alt="Josemiles' GitHub Contribution"/>
+</a>
 
 </div>
 
@@ -230,7 +241,9 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Josemiles-ctr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Josemiles-ctr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Josemiles' GitHub Trophies"/>
+</a>
 
 </div>
 
