@@ -237,20 +237,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> GitHub Achievements
-
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Josemiles-ctr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="trophy"/>
-  </a>
-</p>
-
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Focus" width="35" height="35" /> Current Focus
 
 <div align="center">
