@@ -221,16 +221,24 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Josemiles-ctr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 <a href="https://github.com/Josemiles-ctr">
-  <img src="https://streak-stats.demolab.com?user=Josemiles-ctr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Josemiles' GitHub Streak"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=Josemiles-ctr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Josemiles' GitHub Streak"/>
 </a>
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 <a href="https://github.com/Josemiles-ctr">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josemiles-ctr&theme=tokyonight" alt="Josemiles' GitHub Contribution"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josemiles-ctr&theme=tokyonight" alt="Josemiles' GitHub Contribution"/>
 </a>
 
 </div>
