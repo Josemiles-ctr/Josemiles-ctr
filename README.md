@@ -213,9 +213,15 @@
 
 <div align="center">
 
-<a href="https://github.com/Josemiles-ctr">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Josemiles-ctr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Josemiles' GitHub Streak"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Josemiles-ctr">
+    <img
+      src="https://streak-stats.demolab.com?user=Josemiles-ctr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      alt="Josemiles' GitHub Streak"
+      width="100%"
+    />
+  </a>
+</p>
 
 </div>
 
