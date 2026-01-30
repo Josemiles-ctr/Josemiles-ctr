@@ -201,12 +201,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" height="35" /> GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/Josemiles-ctr">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josemiles-ctr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Josemiles-ctr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josemiles-ctr&theme=tokyonight)](https://github.com/Josemiles-ctr)
 </div>
 
 ---
