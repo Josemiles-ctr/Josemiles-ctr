@@ -201,13 +201,28 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" height="35" /> GitHub Statistics
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josemiles-ctr&theme=tokyonight)](https://github.com/Josemiles-ctr)
+
+<!-- Overall GitHub stats: stars, commits, PRs, issues, and contributions – live data -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Josemiles-ctr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+  alt="Josemiles' GitHub Stats"
+  width="49%"
+/>
+
+<!-- Top languages across all public repos – live data -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josemiles-ctr&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"
+  alt="Josemiles' Top Languages"
+  width="49%"
+/>
+
 </div>
 
 ---
 
 <div align="center">
 
+<!-- GitHub Streak stats – live data -->
 <p align="center">
   <a href="https://github.com/Josemiles-ctr">
     <img
@@ -224,9 +239,31 @@
 
 <div align="center">
 
+<!-- Detailed profile summary (repos, commits, PRs, issues per language) – live data -->
 <a href="https://github.com/Josemiles-ctr">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josemiles-ctr&theme=tokyonight" alt="Josemiles' GitHub Contribution"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josemiles-ctr&theme=tokyonight" alt="Repos Per Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Josemiles-ctr&theme=tokyonight" alt="Most Commit Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josemiles-ctr&theme=tokyonight" alt="Stats"/>
 </a>
+
+<a href="https://github.com/Josemiles-ctr">
+  <!-- utcOffset=3: East Africa Time (UTC+3) -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Josemiles-ctr&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josemiles-ctr&theme=tokyonight" alt="Profile Details"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- GitHub Activity Graph – live data -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Josemiles-ctr&theme=tokyo-night&hide_border=true&area=true"
+  alt="Josemiles' Activity Graph"
+  width="100%"
+/>
 
 </div>
 
