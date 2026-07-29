@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" height="40" /> Hello, I'm Engineer OTAI JOSEPH
+# Hello, I'm Engineer OTAI JOSEPH
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%7C+Code+Architect;Passionate+Problem+Solver+%7C+Innovation+Driver;Cloud+Enthusiast+%7C+DevOps+Advocate;Building+Scalable+Solutions+%7C+Clean+Code+Lover;Turning+Ideas+Into+Reality+%7C+Tech+Explorer" alt="Typing SVG" />
 
@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="25" height="25" /> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Josemiles-ctr&label=Profile%20Views&color=00D9FF&style=flat-square)](https://github.com/Josemiles-ctr)
 [![GitHub followers](https://img.shields.io/github/followers/Josemiles-ctr?label=Followers&style=social)](https://github.com/Josemiles-ctr?tab=followers)
@@ -20,23 +20,29 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> About Me
+<a href="https://gitfut.com/josemiles-ctr" target="_blank">
+  <img src="https://gitfut.com/josemiles-ctr/opengraph-image" width="100%" alt="GitFut Player Card" />
+</a>
+
+<br>
+
+## About Me
 
 > **Passionate developer** crafting elegant solutions to complex problems. I thrive on building **scalable applications**, exploring **cutting-edge technologies**, and contributing to **open-source communities**. My journey in tech is driven by an insatiable curiosity and a commitment to continuous learning.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> **Currently Building:** Innovative web applications with modern tech stacks
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Learning" width="20" height="20" /> **Learning Journey:** Advanced cloud architecture, microservices, and AI/ML integration
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Chat" width="20" height="20" /> **Ask Me About:** Full-stack development, system design, DevOps practices, and code optimization
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Target" width="20" height="20" /> **2026 Goals:** Contribute more to open source & master distributed systems
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Zap" width="20" height="20" /> **Fun Fact:** I debug with coffee and solve problems in my sleep!
+- **Currently Building:** Innovative web applications with modern tech stacks
+- **Learning Journey:** Advanced cloud architecture, microservices, and AI/ML integration
+- **Ask Me About:** Full-stack development, system design, DevOps practices, and code optimization
+- **2026 Goals:** Contribute more to open source & master distributed systems
+- **Fun Fact:** I debug with coffee and solve problems in my sleep!
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" height="35" /> Tech Stack & Expertise
+## Tech Stack & Expertise
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Languages" width="30" height="30" /> Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,7 +56,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Frontend" width="30" height="30" /> Frontend Development
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,7 +76,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Backend" width="30" height="30" /> Backend Development
+### Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -87,7 +93,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="30" height="30" /> Databases & Storage
+### Databases & Storage
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -106,7 +112,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="30" height="30" /> Cloud & DevOps
+### Cloud, DevOps & IaC
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -116,13 +122,15 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -130,7 +138,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Testing" width="30" height="30" /> Testing & Quality
+### Testing & Quality
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -146,7 +154,7 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Tools" width="30" height="30" /> Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -173,7 +181,7 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI" width="30" height="30" /> AI & Machine Learning
+### AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -198,13 +206,13 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" height="35" /> GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
 <!-- Overall GitHub stats: stars, commits, PRs, issues, and contributions – live data -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Josemiles-ctr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+  src="https://github-readme-stats.vercel.app/api?username=Josemiles-ctr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   alt="Josemiles' GitHub Stats"
   width="49%"
 />
@@ -269,7 +277,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Focus" width="35" height="35" /> Current Focus
+## Current Focus
 
 <div align="center">
 
@@ -301,35 +309,36 @@ graph LR
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="35" height="35" /> Professional Experience
+## Professional Experience
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Dev" width="20" height="20" /> **Full Stack Development:** Building end-to-end solutions with modern frameworks
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Design" width="20" height="20" /> **UI/UX Implementation:** Crafting responsive and accessible user interfaces
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Performance" width="20" height="20" /> **Performance Optimization:** Enhancing application speed and efficiency
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Security" width="20" height="20" /> **Security Best Practices:** Implementing robust authentication and authorization
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Scale" width="20" height="20" /> **Scalable Architecture:** Designing systems that grow with business needs
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="API" width="20" height="20" /> **API Development:** Creating RESTful and GraphQL APIs
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Cloud" width="20" height="20" /> **Cloud Deployment:** Managing infrastructure on AWS, Azure, and GCP
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data" width="20" height="20" /> **Data Management:** Optimizing database queries and data pipelines
+- **Full Stack Development:** Building end-to-end solutions with modern frameworks
+- **UI/UX Implementation:** Crafting responsive and accessible user interfaces
+- **Performance Optimization:** Enhancing application speed and efficiency
+- **Security Best Practices:** Implementing robust authentication and authorization
+- **Scalable Architecture:** Designing systems that grow with business needs
+- **API Development:** Creating RESTful and GraphQL APIs
+- **Cloud Deployment:** Managing infrastructure on AWS, Azure, and GCP
+- **IaC & Automation:** Provisioning cloud resources with Terraform and Terragrunt
+- **Data Management:** Optimizing database queries and data pipelines
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Projects" width="35" height="35" /> Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| Project                                                                                                                                                                                                                | Description                                            | Tech Stack                           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------ |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Project" width="20" height="20" /> **[Project Alpha](#)**                   | Full-stack e-commerce platform with real-time features | React, Node.js, PostgreSQL, Redis    |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Project" width="20" height="20" /> **[Project Beta](#)**                     | AI-powered content management system                   | Next.js, Python, TensorFlow, MongoDB |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Project" width="20" height="20" /> **[Project Gamma](#)**                                 | Microservices architecture for enterprise solutions    | Docker, Kubernetes, Go, gRPC         |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Project" width="20" height="20" /> **[Project Delta](#)** | Real-time collaboration tool for teams                 | Vue.js, WebSocket, Express, Redis    |
+| Project                                                                                                                                    | Description                                            | Tech Stack                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------ |
+| **[Project Alpha](#)**                                                                                                                     | Full-stack e-commerce platform with real-time features | React, Node.js, PostgreSQL, Redis    |
+| **[Project Beta](#)**                                                                                                                      | AI-powered content management system                   | Next.js, Python, TensorFlow, MongoDB |
+| **[Project Gamma](#)**                                                                                                                     | Microservices architecture for enterprise solutions    | Docker, Kubernetes, Go, gRPC         |
+| **[Project Delta](#)**                                                                                                                     | Real-time collaboration tool for teams                 | Vue.js, WebSocket, Express, Redis    |
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Connect" width="35" height="35" /> Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -344,7 +353,7 @@ graph LR
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Quote" width="35" height="35" /> Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -354,7 +363,7 @@ graph LR
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -370,9 +379,9 @@ graph LR
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Thanks" width="30" height="30" /> Thanks for visiting!
+### Thanks for visiting!
 
-**Let's build something amazing together!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Build" width="25" height="25" />
+**Let's build something amazing together!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 
