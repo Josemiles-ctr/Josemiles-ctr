@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Engineer OTAI JOSEPH
+# Hi, I am OTAI JOSEPH, An Aspiring Software Engineer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Reading+Books+And+Proving+With+The+Compiler+Is+The+Only+Solution;Problem+Solving+Is+All+You+Need;Learn+The+Fundamentals+And+Treat+Anything+Else+As+A+Tool+Finally,+The+Compiler+Is+The+Only+Judge" alt="Typing SVG" />
 
