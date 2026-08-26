@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### *"It is interesting to See what we can do nowadays within the shortest time Possible But it is an slow poison to someone who does not understand the fundamentals of the work he or she is claiming accountability for.The so called 'simple tasks' are actually the ones that need more creativity because they contribute to more than 90% of the overall project. Therefore, Repeatitive tasks with a set baseline are the ones worth automating but not 'simple tasks'"* – [What I say]
+### *"It is interesting to See what we can do nowadays within the shortest time Possible But it can be a slow poison to someone who does not understand the fundamentals of the work he or she is claiming accountability for.The so called 'simple tasks' are actually the ones that need more creativity because they contribute to more than 90% of the overall project. Therefore, Repeatitive tasks with a set baseline are the ones worth automating but not 'simple tasks'"* – [What I say]
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Josemiles-ctr&label=Profile%20Views&color=00D9FF&style=flat-square)](https://github.com/Josemiles-ctr)
 [![GitHub followers](https://img.shields.io/github/followers/Josemiles-ctr?label=Followers&style=social)](https://github.com/Josemiles-ctr?tab=followers)
