@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### *"It is interesting to See what we can do nowadays within the shortest time Possible But it can be a slow poison to someone who does not understand the fundamentals of the work he or she is claiming accountability for.The so called 'simple tasks' are actually the ones that need more creativity because they contribute to more than 90% of the overall project. Therefore, Repeatitive tasks with a set baseline are the ones worth automating but not 'simple tasks'"* – [What I say]
@@ -17,8 +15,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Josemiles-ctr?label=Stars&style=social)](https://github.com/Josemiles-ctr)
 
 </div>
-
----
 
 <a href="https://gitfut.com/josemiles-ctr" target="_blank">
   <img src="https://gitfut.com/josemiles-ctr/opengraph-image" width="100%" alt="GitFut Player Card" />
@@ -34,8 +30,6 @@
 - **Learning Journey:** From the simple basics , How does 1 + 1 become 2, Understanding Operating Systems, Data Structures and Algorithms and many more have shaped how I approach tech Challenges. But I am proud of all the challenges that I have encountered along the way and those due to come.
 - **2026 Goals:** Adding System Programming to my muscle memory and more importantly creating a platform to teach other people what I have tried to summarize across the different books I have been reading.
 - **Fun Fact:** Music is my companion especially when I want more dopamine. This makes my relation with an IDE inseparable
-
----
 
 ## Tech Stack & Expertise
 
@@ -162,8 +156,6 @@
 
 </div>
 
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -185,10 +177,6 @@
 </a>
 
 </div>
-
----
-
----
 
 ## Current Focus
 
@@ -220,8 +208,6 @@ graph LR
 
 </div>
 
----
-
 ## Professional Experience
 
 - **Full Stack Development:** Building end-to-end solutions with modern frameworks
@@ -233,8 +219,6 @@ graph LR
 - **Cloud Deployment:** Managing infrastructure on AWS, Azure, and GCP
 - **IaC & Automation:** Provisioning cloud resources with Terraform and Terragrunt
 - **Data Management:** Optimizing database queries and data pipelines
-
----
 
 ## Let's Connect
 
@@ -249,7 +233,6 @@ graph LR
 
 </div>
 
----
 
 ## Contribution Snake
 
@@ -263,7 +246,6 @@ graph LR
 
 </div>
 
----
 
 <div align="center">
 
